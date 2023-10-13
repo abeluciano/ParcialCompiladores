@@ -1,0 +1,2 @@
+a = pepe(b);
+out:(pepe);

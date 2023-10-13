@@ -1,0 +1,13 @@
+func pedmo(a ,f) {
+  in:(a);
+  if:(a == b) {
+    out:(a);
+  }
+  elif:(a != b) {
+    a = 0;
+  }
+  els: {
+    b = 1;
+  }
+}
+out:(meme);

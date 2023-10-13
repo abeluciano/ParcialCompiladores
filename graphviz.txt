@@ -1,0 +1,127 @@
+"FOR_17" [style=filled, fillcolor=green, label="FOR"]
+ "FR_5"[label="FR"][style=filled, fillcolor=yellow, label="FR"] 
+ "FOR_17"[label="FOR"]
+"DOSP_16" [style=filled, fillcolor=green, label="DOSP"]
+ "FR_5"[label="FR"][style=filled, fillcolor=yellow, label="FR"] 
+ "DOSP_16"[label="DOSP"]
+"ID_15" [style=filled, fillcolor=green, label="ID"]
+ "FR_5"[label="FR"][style=filled, fillcolor=yellow, label="FR"] 
+ "ID_15"[label="ID"]
+"OF_14" [style=filled, fillcolor=green, label="OF"]
+ "FR_5"[label="FR"][style=filled, fillcolor=yellow, label="FR"] 
+ "OF_14"[label="OF"]
+"PAR_INICIO_13" [style=filled, fillcolor=green, label="PAR_INICIO"]
+ "FR_5"[label="FR"][style=filled, fillcolor=yellow, label="FR"] 
+ "PAR_INICIO_13"[label="PAR_INICIO"]
+"NUM_12" [style=filled, fillcolor=green, label="NUM"]
+ "FR_5"[label="FR"][style=filled, fillcolor=yellow, label="FR"] 
+ "NUM_12"[label="NUM"]
+"COMA_11" [style=filled, fillcolor=green, label="COMA"]
+ "FR_5"[label="FR"][style=filled, fillcolor=yellow, label="FR"] 
+ "COMA_11"[label="COMA"]
+"NUM_10" [style=filled, fillcolor=green, label="NUM"]
+ "FR_5"[label="FR"][style=filled, fillcolor=yellow, label="FR"] 
+ "NUM_10"[label="NUM"]
+"PAR_FIN_9" [style=filled, fillcolor=green, label="PAR_FIN"]
+ "FR_5"[label="FR"][style=filled, fillcolor=yellow, label="FR"] 
+ "PAR_FIN_9"[label="PAR_FIN"]
+"KEY_INICIO_8" [style=filled, fillcolor=green, label="KEY_INICIO"]
+ "FR_5"[label="FR"][style=filled, fillcolor=yellow, label="FR"] 
+ "KEY_INICIO_8"[label="KEY_INICIO"]
+"SALIDA_25" [style=filled, fillcolor=green, label="SALIDA"]
+ "M_7"[label="M"][style=filled, fillcolor=yellow, label="M"] 
+ "SALIDA_25"[label="SALIDA"]
+"DOSP_24" [style=filled, fillcolor=green, label="DOSP"]
+ "M_7"[label="M"][style=filled, fillcolor=yellow, label="M"] 
+ "DOSP_24"[label="DOSP"]
+"PAR_INICIO_23" [style=filled, fillcolor=green, label="PAR_INICIO"]
+ "M_7"[label="M"][style=filled, fillcolor=yellow, label="M"] 
+ "PAR_INICIO_23"[label="PAR_INICIO"]
+"CADENA_30" [style=filled, fillcolor=green, label="CADENA"]
+ "F_29"[label="F"][style=filled, fillcolor=yellow, label="F"] 
+ "CADENA_30"[label="CADENA"]
+ "T_27"[label="T"][style=filled, fillcolor=yellow, label="T"] 
+ "F_29"[label="F"]
+"e_31" [style=filled, fillcolor=green, label="e"]
+ "T'_28"[label="T'"][style=filled, fillcolor=yellow, label="T'"] 
+ "e_31"[label="e"]
+ "T_27"[label="T"][style=filled, fillcolor=yellow, label="T"] 
+ "T'_28"[label="T'"]
+ "E_22"[label="E"][style=filled, fillcolor=yellow, label="E"] 
+ "T_27"[label="T"]
+"e_32" [style=filled, fillcolor=green, label="e"]
+ "E'_26"[label="E'"][style=filled, fillcolor=yellow, label="E'"] 
+ "e_32"[label="e"]
+ "E_22"[label="E"][style=filled, fillcolor=yellow, label="E"] 
+ "E'_26"[label="E'"]
+ "M_7"[label="M"][style=filled, fillcolor=yellow, label="M"] 
+ "E_22"[label="E"]
+"e_33" [style=filled, fillcolor=green, label="e"]
+ "N_21"[label="N"][style=filled, fillcolor=yellow, label="N"] 
+ "e_33"[label="e"]
+ "M_7"[label="M"][style=filled, fillcolor=yellow, label="M"] 
+ "N_21"[label="N"]
+"PAR_FIN_20" [style=filled, fillcolor=green, label="PAR_FIN"]
+ "M_7"[label="M"][style=filled, fillcolor=yellow, label="M"] 
+ "PAR_FIN_20"[label="PAR_FIN"]
+"PCOMA_19" [style=filled, fillcolor=green, label="PCOMA"]
+ "M_7"[label="M"][style=filled, fillcolor=yellow, label="M"] 
+ "PCOMA_19"[label="PCOMA"]
+"e_35" [style=filled, fillcolor=green, label="e"]
+ "M_34"[label="M"][style=filled, fillcolor=yellow, label="M"] 
+ "e_35"[label="e"]
+ "K_18"[label="K"][style=filled, fillcolor=yellow, label="K"] 
+ "M_34"[label="M"]
+ "M_7"[label="M"][style=filled, fillcolor=yellow, label="M"] 
+ "K_18"[label="K"]
+ "FR_5"[label="FR"][style=filled, fillcolor=yellow, label="FR"] 
+ "M_7"[label="M"]
+"KEY_FIN_6" [style=filled, fillcolor=green, label="KEY_FIN"]
+ "FR_5"[label="FR"][style=filled, fillcolor=yellow, label="FR"] 
+ "KEY_FIN_6"[label="KEY_FIN"]
+ "M_3"[label="M"][style=filled, fillcolor=yellow, label="M"] 
+ "FR_5"[label="FR"]
+"e_37" [style=filled, fillcolor=green, label="e"]
+ "M_36"[label="M"][style=filled, fillcolor=yellow, label="M"] 
+ "e_37"[label="e"]
+ "K_4"[label="K"][style=filled, fillcolor=yellow, label="K"] 
+ "M_36"[label="M"]
+ "M_3"[label="M"][style=filled, fillcolor=yellow, label="M"] 
+ "K_4"[label="K"]
+ "K_1"[label="K"][style=filled, fillcolor=yellow, label="K"] 
+ "M_3"[label="M"]
+ "FR_5"  -> "FOR_17"
+ "FR_5"  -> "DOSP_16"
+ "FR_5"  -> "ID_15"
+ "FR_5"  -> "OF_14"
+ "FR_5"  -> "PAR_INICIO_13"
+ "FR_5"  -> "NUM_12"
+ "FR_5"  -> "COMA_11"
+ "FR_5"  -> "NUM_10"
+ "FR_5"  -> "PAR_FIN_9"
+ "FR_5"  -> "KEY_INICIO_8"
+ "M_7"  -> "SALIDA_25"
+ "M_7"  -> "DOSP_24"
+ "M_7"  -> "PAR_INICIO_23"
+ "F_29"  -> "CADENA_30"
+ "T_27"  -> "F_29"
+ "T'_28"  -> "e_31"
+ "T_27"  -> "T'_28"
+ "E_22"  -> "T_27"
+ "E'_26"  -> "e_32"
+ "E_22"  -> "E'_26"
+ "M_7"  -> "E_22"
+ "N_21"  -> "e_33"
+ "M_7"  -> "N_21"
+ "M_7"  -> "PAR_FIN_20"
+ "M_7"  -> "PCOMA_19"
+ "M_34"  -> "e_35"
+ "K_18"  -> "M_34"
+ "M_7"  -> "K_18"
+ "FR_5"  -> "M_7"
+ "FR_5"  -> "KEY_FIN_6"
+ "M_3"  -> "FR_5"
+ "M_36"  -> "e_37"
+ "K_4"  -> "M_36"
+ "M_3"  -> "K_4"
+ "K_1"  -> "M_3"
