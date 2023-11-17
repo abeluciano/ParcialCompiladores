@@ -114,7 +114,7 @@ def t_error(t):
 
 lexer = lex.lex()
 
-archivo = open("ejemplo3.txt", "r")
+archivo = open("ejemplo2.txt", "r")
 data = archivo.read()
 archivo.close()
 

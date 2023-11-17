@@ -1,13 +1,13 @@
 func pedmo(a ,f) {
-  in:(a);
   if:(a == b) {
-    out:(a);
   }
-  elif:(a != b) {
-    a = 0;
-  }
-  els: {
-    b = 1;
-  }
+  a = 1;
+  b=1;
+  x=1.3;
+  c=x;
+  d=1;
+  pqwdp = 1 + 2 + 3 + 4;
 }
-out:(meme);
+
+pp = "Hola" + "HOla" + 3 + 4;
+

@@ -1,3 +1,4 @@
 for: i of (1, 10){
-  out:("Hola Mundo");
+  out:(a);
+  pepe(a);
 }
